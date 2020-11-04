@@ -50,3 +50,7 @@ a{
 article:hover{
     color: darkred;
 }
+.pic{
+    height: 250px;
+    width: 100px;
+}
