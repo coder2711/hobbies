@@ -51,6 +51,12 @@ article:hover{
     color: darkred;
 }
 .pic{
-    height: 250px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
+    border-radius: 0%;
+    margin: 50px;
+    transition: transform 0.2s;
+}
+.pic:hover{
+  transform: scale(1.2);
 }
