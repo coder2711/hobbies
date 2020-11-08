@@ -33,8 +33,9 @@ p{
     padding-bottom: 5px;
     padding-top: 5px;
     padding-right: 10px;
-    font-size: px;
+    font-size: 20px;
    font-family: 'Turret Road', cursive;
+    display: inline;
 }
 .link:hover{
     background-color: aqua;
@@ -59,4 +60,16 @@ article:hover{
 }
 .pic:hover{
   transform: scale(1.2);
+}
+#contact{
+    background-color: firebrick;
+}
+#contact iframe{
+    width: 100%;
+}
+#data h3{
+    display: inline;
+}
+data a{
+        color: yellow;
 }
